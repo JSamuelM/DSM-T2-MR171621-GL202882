@@ -20,6 +20,6 @@ Hecho en [Figma](https://figma.com) enlace a los mockups [aquí](https://www.fig
 
 **Logo:**
 
-![Logo de MedPharmacy][https://github.com/JSamuelM/DSM-T2-MR171621-GL202882/docs/logo.png]
+![Logo de MedPharmacy][./docs/logo.png]
 
-<img src="https://github.com/JSamuelM/DSM-T2-MR171621-GL202882/docs/logo.png" >
+<img src="./docs/logo.png" >
