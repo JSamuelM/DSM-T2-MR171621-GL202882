@@ -8,7 +8,7 @@
 
 ---
 ### Enlace al documento PDF
-Enlace al documento solicitado [aquí](https://docs.google.com/document/d/1HP9cg6yGqJEwH_B5uBN4dziZRYFybmQ3PFCY_YpYRck/edit?usp=sharing)
+Enlace al documento solicitado [aquí](https://github.com/JSamuelM/DSM-T2-MR171621-GL202882/blob/sammy/docs/Taller%20Pr%C3%A1ctico%20%232%20-%20MR171621%20-%20GL202882.pdf)
 
 ### Enlace a los mockups
 Hecho en [Figma](https://figma.com) enlace a los mockups [aquí](https://www.figma.com/file/uMgapJLX5NDl04gT6oNwHB/DSM-T2?node-id=1%3A8)
