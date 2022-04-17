@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">DSMT2MR171621GL202882</string>
+
+    <!--  MENU  -->
+    <string name="home">Productos</string>
+    <string name="shopping_car">Carrito</string>
+    <string name="log">Historial</string>
+
+    <!-- FRAGMENTS -->
+    <!--  Products  -->
+    <string name="products_fragment">Products fragment</string>
+    <!--  Shopping Cart  -->
+    <string name="shopping_fragment">Shopping Cart fragment</string>
+    <!--  Log  -->
+    <string name="log_fragment">Log fragment</string>
 </resources>

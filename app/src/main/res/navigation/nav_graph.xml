@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="sv.edu.udb.dsmt2mr171621gl202882.HomeFragment"
+        android:label="Productos"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/shoppingCartFragment"
+        android:name="sv.edu.udb.dsmt2mr171621gl202882.ShoppingCartFragment"
+        android:label="Carrito de Compras"
+        tools:layout="@layout/fragment_shopping_cart" />
+    <fragment
+        android:id="@+id/logFragment"
+        android:name="sv.edu.udb.dsmt2mr171621gl202882.LogFragment"
+        android:label="Historial de Compras"
+        tools:layout="@layout/fragment_log" />
+</navigation>
