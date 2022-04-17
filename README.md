@@ -21,5 +21,4 @@ Hecho en [Figma](https://figma.com) enlace a los mockups [aquí](https://www.fig
 **Logo:**
 
 ![Logo de MedPharmacy][./docs/logo.png]
-
 <img src="./docs/logo.png" >
